@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoGPSC</string>
+    <string name="title_activity_reading_view">ReadingView</string>
+</resources>
